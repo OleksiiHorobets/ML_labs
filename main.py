@@ -2,7 +2,7 @@ import statistics
 import pandas
 
 def main():
-    pass
+    print('test')
 
 
 
